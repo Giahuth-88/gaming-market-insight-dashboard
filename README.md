@@ -1,7 +1,7 @@
 # 🎮 Gaming Market Insight Dashboard (Tableau)
 
 🔗 **Live Dashboard:**
-👉 [https://public.tableau.com/shared/5SQ5GSMB9?:display_count=n&:origin=viz_share_link]
+👉 https://public.tableau.com/shared/5SQ5GSMB9?:display_count=n&:origin=viz_share_link
 
 ---
 
