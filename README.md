@@ -58,6 +58,7 @@ This dashboard helps answer:
 ## 👩‍💻 Author
 
 Gia Hu
+
 Data Analyst | SQL | Python | Tableau
 
 ---
